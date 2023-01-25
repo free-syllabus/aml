@@ -8,12 +8,12 @@
 
 ### Activities
 
-@todo: false dices or not?
-@todo: detect if chess player is cheating or not based on the difference between optimal moves and history
+* @todo: false dices or not?
+* @todo: detect if chess player is cheating or not based on the difference between optimal moves and history
 
 ### Reasoning
 
-@todo: importance of ability to test if results of our models are really better or it is just coincidence. 
-@todo: A/B tests materials
+* @todo: importance of ability to test if results of our models are really better or it is just coincidence. 
+* @todo: A/B tests materials
 
 
