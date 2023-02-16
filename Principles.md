@@ -48,6 +48,14 @@ Honestly, we don't know and comparing those results will not bring us anything r
 
 You are welcome to do competitive activities, just check https://www.kaggle.com and compete against other teams.
 
+#### The times are changing
+
+The field of ML/AI is rapidly changing but we believe that there are some cornerstone facts that you should know about. We will
+focus on those that are still used even if they look quite naive. But we want to present you also new ideas and tools so be prepared
+that our later sessions might be changed to reflect that. 
+
+You are welcome to let us know about ML/AI news.
+
 #### Grading
 
 Because of your different background, the grading of this course is not about how "good" you are in ML/AI. There will be a lot of tasks
