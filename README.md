@@ -7,4 +7,4 @@ want to make syllabus (and other materials) available for everyone and we believ
 in education.
 
 We are using Datacamp for the Classroom in this machine learning course because it provides perfect opportunity for getting into the
-"craft" and they are doing it for free, so find out more at (datacamp.com/groups/education)
+"craft" and they are doing it for free, so find out more at [datacamp.com/groups/education](https://datacamp.com/groups/education)
