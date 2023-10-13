@@ -8,15 +8,16 @@
 ### Alternative Study Materials
 1. **Illustrated Stable Diffusion** by Jay Alammar (https://jalammar.github.io/illustrated-stable-diffusion/)
 
+### On Session Materials
+1. Links to Stable Diffusion at Hugging Face:
+    1. https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5
+    2. https://huggingface.co/CompVis/stable-diffusion-v1-4
+    3. https://huggingface.co/spaces/stabilityai/stable-diffusion
+
 ### Activities
 
-* @todo:Links to Stable Diffusion at Hugging Face:
+* @todo:
 
-https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5 
-
-https://huggingface.co/CompVis/stable-diffusion-v1-4? 
-
-https://huggingface.co/spaces/stabilityai/stable-diffusion
 
 Quiz: https://www.irozhlas.cz/veda-technologie/fotografie-obrazky-umela-inteligence-aplikace-rozdil_2304050600_pik
 * 
