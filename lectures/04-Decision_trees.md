@@ -2,11 +2,10 @@
 
 ### Required Study Materials
 
-1. **Decision Trees** by StatQuest (https://www.youtube.com/watch?v=7VeUPuFGJHk)
-2. **Random Forests I** by StatQuest (https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
-3. **Random Forests II** by StatQuest (https://www.youtube.com/watch?v=sQ870aTKqiM)
-4. **AdaBoost** by StatQuest (https://www.youtube.com/watch?v=LsK-xG1cLYA)
-5. **Regression Trees** by StatQuest (https://www.youtube.com/watch?v=g9c66TUylZ4)
+1. **[Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)** by StatQuest 
+2. **[Random Forests I](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)** and **[Random Forests II](https://www.youtube.com/watch?v=sQ870aTKqiM)**
+3. **[AdaBoost](https://www.youtube.com/watch?v=LsK-xG1cLYA)** by StatQuest 
+4. **[Regression Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)** by StatQuest 
 
 ### Activities
 
