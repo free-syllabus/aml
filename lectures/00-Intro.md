@@ -9,6 +9,9 @@
 * Group projects
 * @todo: add reasoning
 
+### On Session Materials
+1. [How to generate images using Midjourney](/on-session/00-Intro/midjourney_discord.pdf)
+
 ### Activities
 
 * Speed dating + generate portrait of your partner (via [Midjourney](https://midjourney.com/home/)) using obtained info
