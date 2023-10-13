@@ -8,8 +8,10 @@
 4. **[Regression Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)** by StatQuest 
 
 ### Activities
-
-* @todo: Creation of decision tree to guess the animal (and outliers)
+1. Guess animals by their attributes
+   * Create decision tree with selected attributes for top20 animals with animals in leafs
+   * Are you able to count Gini unpurity?
+   * Across teams: Game that tests identification of new animals (outliers)
 
 ### Reasoning
 
