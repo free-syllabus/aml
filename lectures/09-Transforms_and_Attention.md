@@ -2,13 +2,13 @@
 
 ### Required Study Materials
 
-1. **LSTM is dead. Long Live Transformers** by Leo Dirac (https://www.youtube.com/watch?v=S27pHKBEp30)
-2. **Attention is all you need** by Lukasz Kaiser from Google Brain (https://www.youtube.com/watch?v=rBCqOTEfxvg)
+1. **[LSTM is dead. Long Live Transformers](https://www.youtube.com/watch?v=S27pHKBEp30)** by Leo Dirac
+2. **[Attention is all you need](https://www.youtube.com/watch?v=rBCqOTEfxvg)** by Lukasz Kaiser from Google Brain
 
 ### Alternative Study Materials
 
-1. **Illustrated transformer** by Jay Alammar (https://jalammar.github.io/illustrated-transformer/)
-2. Paper **Attention is all you need** (https://is.muni.cz/auth/el/phil/jaro2023/PLIN068/124034648/Attention_is_all_you_need.pdf?predmet=1462668) <br>
+1. **[Illustrated transformer](https://jalammar.github.io/illustrated-transformer/)** by Jay Alammar 
+2. Paper **[Attention is all you need](https://arxiv.org/abs/1706.03762)**  <br>
    This is the original paper if you would be curious. We don't expect you to read it and understand it, but it might be interesting for you to just have a look inside.
 
 ### On Session Materials
