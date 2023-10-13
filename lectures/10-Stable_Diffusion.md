@@ -2,7 +2,7 @@
 
 ### Required Study Materials
 
-1. **Stable Diffusion** by Jeremy Howard (https://www.youtube.com/watch?v=_7rMfsA24Ls&ab_channel=JeremyHoward)
+1. **Stable Diffusion** by Jeremy Howard (https://www.youtube.com/watch?v=_7rMfsA24Ls&ab_channel=JeremyHoward) <Br>
    The video is quite long and some parts are not necessary. So focus on the stable diffusion explanation (starting from Stable diffusion explained, 45:00) and you can skip the beginning part.
 
 ### Alternative Study Materials
