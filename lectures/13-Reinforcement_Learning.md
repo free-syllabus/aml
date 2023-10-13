@@ -10,8 +10,10 @@
 1. **[Python Tutorial with working code](https://www.youtube.com/watch?v=cO5g5qLrLSo)** by Nicholas Renotte (20min)
 
 ### Activities
-
-* @todo:
+1. Guess the game
+   * Team is presented with unknown game and input/output vector dimensions for each move
+   * Mentor is evaluating moves (input vector) and answer with output vector and score (win, lose, invalid-move, valid-move)
+   * Team tries to find winning strategy according to previous moves (and identify game if possible)
   
 ### Reasoning
 
