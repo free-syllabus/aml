@@ -2,7 +2,7 @@
 
 ### Required Study Materials
 
-1. **Data Annotation - Workshop from MLPrague** by Marek Grác (@todo) <br>
+1. **Data Annotation - Workshop** by Marek Grác at MLPrague (@todo) <br>
 
 ### Activities
 
