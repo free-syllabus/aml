@@ -8,8 +8,10 @@
 
 ### Activities
 
-* @todo: false dices or not?
+1. Coin toss experiment: Are dices false or not?
+   * @todo
 * @todo: detect if chess player is cheating or not based on the difference between optimal moves and history
+* @todo: creation and evaluation of hypothesis
 
 ### Reasoning
 
