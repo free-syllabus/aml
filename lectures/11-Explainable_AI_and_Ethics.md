@@ -13,7 +13,7 @@
 
 ## Guest Presentation
 
-1. **[The EU AI Act Regulating AI systems as a product lecture slides](https://is.muni.cz/auth/el/phil/jaro2023/PLIN068/124034648/The_EU_AI_Act__Regulating_AI_systems_as_a_product_lecture_slides.pdf?predmet=1462668)** by Christina Hitrova from PwC 
+1. **[The EU AI Act Regulating AI systems as a product lecture slides](on-session/11-Explainable_AI_and_Ethics/EU_AI_Act-slides.pdf)** by Christina Hitrova from PwC
 
 ### Activities
 
