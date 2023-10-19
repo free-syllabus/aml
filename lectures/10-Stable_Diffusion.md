@@ -2,11 +2,11 @@
 
 ### Required Study Materials
 
-1. **[Stable Diffusion](https://www.youtube.com/watch?v=_7rMfsA24Ls&ab_channel=JeremyHoward)** by Jeremy Howard  <Br>
+1. **[Stable Diffusion](https://www.youtube.com/watch?v=_7rMfsA24Ls&ab_channel=JeremyHoward)** (video:90min) by Jeremy Howard  <Br>
    The video is quite long and some parts are not necessary. So focus on the stable diffusion explanation (starting from Stable diffusion explained, 45:00) and you can skip the beginning part.
 
 ### Alternative Study Materials
-1. **[Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)** by Jay Alammar
+1. **[Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)** (blogpost) by Jay Alammar
 
 ### On Session Materials
 1. Links to Stable Diffusion at Hugging Face:
