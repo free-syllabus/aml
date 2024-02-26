@@ -5,16 +5,16 @@ The final mark will be rounded to the better grade e.g. A+A+C is A at the end.
 
 #### Activity points
 Activity points are obtained for active participation in the lectures.
-Usually there is 1-2 activities for small groups per lecture. The base value of activity points is based on the sum of all activities during term and it is enough to pass.
+Usually there is 1-2 activities for small groups per lecture. We guarantee that you can get 20 activity points on the live sessions.
 You can also obtain activity points for your activities outside lectures.
 
 It is preferable that you will combine multiple types of tasks (otherwise I might not accept them all). Possible tasks (not limited) of yours activities:
-* DataCamp task
+* DataCamp course / task
 * ML/AI news presented for rest of the students (5 minutes)
 * Improve my lectures / Prepare your own
 * Write essay / blogpost about ML
 
-Grading: <-1, +1> C; <+2, +3> B; <4+, > A
+Grading: <19; 21> C; <22, 23> B; <24, > A
 
 **DataCamp homeworks**
 
