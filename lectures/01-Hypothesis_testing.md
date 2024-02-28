@@ -8,14 +8,23 @@
 
 ### Activities
 
-1. Coin toss experiment: Are dices false or not?
-   * @todo
+* Who is better teacher?
+
+* Coin toss experiment?
+   * Test if probability of eagle/head side of the coin toss is same?
+   * Can we generate hypothesis after looking at the data?
+
+* Are dices false or not?
+   * What is the difference between dice (6 sides) vs coin (2 sides)?
+
+* How much data we need to do A/B testing of our ads?
+   * Impact of the CTR (clickthrough rate)
+   * Can we do it in a correct way?
+
 * @todo: detect if chess player is cheating or not based on the difference between optimal moves and history
-* @todo: creation and evaluation of hypothesis
 
 ### Reasoning
 
-* @todo: importance of ability to test if results of our models are really better or it is just coincidence. 
-* @todo: A/B tests materials
-
+* Final goal is to be able to measure quality of our models after making changes. In order to do that, we have to have 
+basic understanding of what is statistically significant. 
 
