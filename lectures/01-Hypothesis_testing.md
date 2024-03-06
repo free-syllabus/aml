@@ -28,3 +28,6 @@
 * Final goal is to be able to measure quality of our models after making changes. In order to do that, we have to have 
 basic understanding of what is statistically significant. 
 
+### Questions
+
+* What is difference between p-value and alpha level?
