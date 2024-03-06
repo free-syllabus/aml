@@ -2,8 +2,7 @@
 
 ### Required Study Materials
 
-1. **[@todo: broken-link](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)** <br>
-   Please take a look at videos 2.1-2.8 and 4.1. 
+1. [Linear Regression and Models (by StatQuest)](https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
 
 ### Activities
 * @todo: Prediction of flat prices
