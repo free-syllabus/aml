@@ -31,3 +31,4 @@ basic understanding of what is statistically significant.
 ### Questions
 
 * What is difference between p-value and alpha level?
+  * https://www.youtube.com/watch?v=2rHciwAI_TE
