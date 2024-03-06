@@ -8,14 +8,19 @@
 
 ### Activities
 
-* Who is better teacher?
+* Who is better teacher? [20 minutes]
+  * Define KPI / metrics that are measurable
+  * Talk about correlation between them
 
-* Coin toss experiment?
+* Coin toss experiment? [15 minutes]
    * Test if probability of eagle/head side of the coin toss is same?
    * Can we generate hypothesis after looking at the data?
+   * Run "real" experiment with coin
+   * What about coints where toss can be predicted from previous one (H,T,H,T,H,T, ...) where H/T is 50/50
 
-* Are dices false or not?
+* Are dices false or not? [15 minutes]
    * What is the difference between dice (6 sides) vs coin (2 sides)?
+   * How to define fairness?
 
 * How much data we need to do A/B testing of our ads?
    * Impact of the CTR (clickthrough rate)
