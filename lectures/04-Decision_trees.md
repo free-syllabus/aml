@@ -8,10 +8,13 @@
 4. **[Regression Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)** (video:23min) by StatQuest 
 
 ### Activities
-1. Guess animals by their attributes
+1. Guess animals by their attributes [70 minutes]
    * Create decision tree with selected attributes for top20 animals with animals in leafs
    * Are you able to count Gini unpurity?
    * Across teams: Game that tests identification of new animals (outliers)
+     * Try to find out "new" animals that will identified almost-correctly by your tree but not by others
+   * [optional] Can you use any boosting methods to split this complex tree?
+    
 
 ### Reasoning
 
