@@ -8,7 +8,7 @@
 4. **[Neural Networks Pt. 4 - Multiple Inputs and Outputs](https://www.youtube.com/watch?v=83LYR-1IcjA)** (video:14min) by StatQuest 
 
 ## Alternative Study Material
-1. **[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)** (video:13min) by 3Blue1Brown  <br>
+1. **[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)** (video:50min) by 3Blue1Brown  <br>
 Take a look at the first three parts of the playlist.
 
 ### Activities
