@@ -14,6 +14,7 @@
    * Across teams: Game that tests identification of new animals (outliers)
      * Try to find out "new" animals that will identified almost-correctly by your tree but not by others
    * [optional] Can you use any boosting methods to split this complex tree?
+   * [together] Can we evaluate which model is best for "new" models? Is panda "closer" to bat or shark?
     
 
 ### Reasoning
