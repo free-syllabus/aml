@@ -7,8 +7,21 @@
 
 ### Activities
 
-* @todo: Creation of annotation manual and annotation of border-line data
-* @todo: Calculation of quality of data annotation with multiple annotators
+* Creation of annotation manual and annotation of border-line data [pairs]
+  * An example is to annotate newspaper articles to be serious / tabloid; politically left / right
+  * Create annotation manual with at most 10 rules
+  * Select 10 "other" articles to annotate. Work individually using your manuals
+  * Count IAA and accuracy
+  * Give your "evaluation" articles and guidelines to other pair and let them annotate and evaluate results
+  * Compare results between creator of guideline and new annotators
+  
+* Annotation of video
+  * [teacher] Explain that creating annotation guideline is similar to engineering of features
+  * Select features that can be annotated by you and might be valuable when annotating communication between dogs
+ 
+* Annotation of smiling faces
+  * Select features that can be annotated by you and might be value when annotating if person is smiling
+  * [teacher] Explain importance of diversity in datasets and difference between smiles across cultures/ages/gender/...
 
 ### Reasoning
 
