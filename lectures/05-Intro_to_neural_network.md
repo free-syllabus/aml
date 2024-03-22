@@ -13,7 +13,13 @@ Take a look at the first three parts of the playlist.
 
 ### Activities
 
-* @todo: logical operators using simple neural network
+* Logical operators using simple neural network [15 minutes]
+  * [teacher] This task is suitable also before any proposed video
+  * Create single linear combination (naive neuron without activation fn) with two inputs (0/1) where response "TRUE" is > 0 and "FALSE" is <= 0
+  * First task is to create weights for AND and OR
+  * Second task is to create weights for XOR
+  * [teacher] Create graph with AND/OR/XOR and explain linearity issue
+  * Explain activation function
 * @todo: manual backprogration to solve system of linear equations
 
 ### Reasoning
