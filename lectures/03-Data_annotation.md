@@ -17,7 +17,12 @@
   
 * Annotation of video
   * [teacher] Explain that creating annotation guideline is similar to engineering of features
-  * Select features that can be annotated by you and might be valuable when annotating communication between dogs
+  * (alternative) Select features that can be annotated by you and might be valuable when annotating communication between dogs
+  * (alternative) Select features that can be annotated by you and might be valuable when annotating communication using sign language
+     * There are "signs" with meaning and movements that just connect them (without additional meaning)
+     * Sign language allows to be more precise when showing length/happyness/...
+     * Play video of song with sign language interpretation (https://www.youtube.com/watch?v=rP2EfJGQY3A)
+     * e.g. angle between hands might matter; how to measure the distance between hands
  
 * Annotation of smiling faces
   * Select features that can be annotated by you and might be value when annotating if person is smiling
