@@ -17,7 +17,7 @@ on this lesson we will focus on the Data Preparation part (usually the hard part
     * let them evaluate the model on our test set, write the results on the board @todo make test set
 3. predicting flat price based on more features:
     * think about other features that might influence the price, 10 min
-    * describe to them categorical vs numerical features, sort their ideas into these two buckets
+    * describe to them categorical vs numerical features, sort their ideas into these two buckets (one hot enconding)
     * explain OHE and binning for categorical features encoding
     * try out these techniques - select multiple features they believe are important, use [multiple linear regression](https://stats.blue/Stats_Suite/multiple_linear_regression_calculator.html), try different variations of features
     * build a model they are happy with, discuss the best set of features; may be more than 40 mins
@@ -25,8 +25,13 @@ on this lesson we will focus on the Data Preparation part (usually the hard part
     * make a new evaluation on the test set with new models, are they better? (if not significantly better - discuss why)
     * [optional] fun task if enough time: choose one person that knows well a flat in Brno, send him to a different group and try to estimate the price of the flat
 
-4. [optional] discuss deployment, monitoring
-5. [optional] space to find a team for the project
+4. Predict demography of given countries (Italy, China, Egypt, Czech Republic)
+  * Task is to predict ratio of population for given age range (-18 and 60+)
+  * Use the publicly available data from webs
+  * Predict for years 2050 and 2100
+  * [teacher] Be aware that ratio is relative number and sum of them should be 100%
+5. [optional] discuss deployment, monitoring
+6. [optional] space to find a team for the project
 
 
 @todo give them colorful papers: in progress, need help, done
