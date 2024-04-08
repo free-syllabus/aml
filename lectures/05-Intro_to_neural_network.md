@@ -20,7 +20,22 @@ Take a look at the first three parts of the playlist.
   * Second task is to create weights for XOR
   * [teacher] Create graph with AND/OR/XOR and explain linearity issue
   * Explain activation function
-* @todo: manual backprogration to solve system of linear equations
+* Manual backprogration to solve system of linear equations
+  * Propose neural network architecture (single hidden layer is enough)
+  * User relu as activation function
+  * [teacher] Be aware of relu limitation with negative numbers
+  * [teacher] Be aware of overfitting when training on single example
+  * [teacher] Note that "deravition" is used to determine the direction of what to do with weights
+  * First set of equations is 2a+3b=6 and 4a+7b=11
+  * Use 2-3 round of backpropagation in order to improve random weights
+  * Second set of equations are 3a-b=5 and 1a+2b=4
+  * Use 1 round of backpropagation to see if we can closer to real results
+  * Check new weights with first set of equations
+* [advanced] Create NN architecture for specific equation
+  * Create equations for solving system of 2 equations with 2 variables
+  * [teacher] Be aware that you will have to work with multiply/division
+   
+* MNIST ?
 
 ### Reasoning
 
