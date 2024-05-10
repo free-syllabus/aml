@@ -5,7 +5,7 @@
 1. **[Explainable AI](https://www.youtube.com/watch?v=AFC8yWzypss)** (video:42min) by dr. Samek
 2. **[Algorithmic Bias and Fairness](https://www.youtube.com/watch?v=gV0_raKR2UQ)** (video:11min) by Jabril from CrashCourse
 3. **[The ethical dilemma we face on AI and autonomous tech](https://www.youtube.com/watch?v=3oE88_6jAwc)** (video:19min) by Christine Fox at TEDx 
-4. **[Elon Musk on Artificial Intelligence Implications and Consequences](@todo: broken-link)** 
+4. **[Elon Musk on Artificial Intelligence Implications and Consequences](https://www.youtube.com/watch?v=8qwzt8opA7I)** (video:15min)
 
 ### Alternative Study Materials
 
