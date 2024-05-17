@@ -13,7 +13,7 @@
 
 ## Guest Presentation
 
-1. **[The EU AI Act Regulating AI systems as a product](on-session/11-Explainable_AI_and_Ethics/EU_AI_Act-slides.pdf)** (slides) by Christina Hitrova from PwC
+1. **[The EU AI Act Regulating AI systems as a product](/on-session/11-Explainable_AI_and_Ethics/EU_AI_Act-slides.pdf)** (slides) by Christina Hitrova from PwC
 
 ### Activities
 
